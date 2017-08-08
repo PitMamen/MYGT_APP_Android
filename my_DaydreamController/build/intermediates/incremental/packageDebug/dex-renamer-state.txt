@@ -1,0 +1,7 @@
+#Tue Aug 08 10:10:46 CST 2017
+base.0=D\:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1fe14c8bf8552cae56fb67d13f7a3d0a7ddd57d4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b772a6a8ba997b408826c9eb2b18daf418aec349\\classes.dex
+base.1=D\:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b772a6a8ba997b408826c9eb2b18daf418aec349
+file.0=D\:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1fe14c8bf8552cae56fb67d13f7a3d0a7ddd57d4\\classes.dex

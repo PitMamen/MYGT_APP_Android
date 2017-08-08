@@ -1,0 +1,463 @@
+[
+    {
+        "outputFile": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-is\\values-is.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 97,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-is\\values-is.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 97,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endColumn": 81,
+                    "endOffset": 280
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-is\\values-is.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 203,
+                        "endColumn": 81,
+                        "endOffset": 280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 285,
+                    "endColumn": 187,
+                    "endOffset": 468
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\10.0.0\\res\\values-is\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 187,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 473,
+                    "endColumn": 86,
+                    "endOffset": 555
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-is\\values-is.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 285,
+                        "endColumn": 86,
+                        "endOffset": 367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 560,
+                    "endColumn": 108,
+                    "endOffset": 664
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-is\\values-is.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 372,
+                        "endColumn": 108,
+                        "endOffset": 476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 669,
+                    "endColumn": 205,
+                    "endOffset": 870
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-is\\values-is.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 481,
+                        "endColumn": 205,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 875,
+                    "endColumn": 136,
+                    "endOffset": 1007
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-is\\values-is.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 687,
+                        "endColumn": 136,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1012,
+                    "endColumn": 132,
+                    "endOffset": 1140
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-is\\values-is.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 824,
+                        "endColumn": 132,
+                        "endOffset": 952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1145,
+                    "endColumn": 77,
+                    "endOffset": 1218
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-is\\values-is.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 957,
+                        "endColumn": 77,
+                        "endOffset": 1030
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1223,
+                    "endColumn": 104,
+                    "endOffset": 1323
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-is\\values-is.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1035,
+                        "endColumn": 104,
+                        "endOffset": 1135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1328,
+                    "endColumn": 114,
+                    "endOffset": 1438
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-is\\values-is.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1140,
+                        "endColumn": 114,
+                        "endOffset": 1250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1443,
+                    "endColumn": 116,
+                    "endOffset": 1555
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-is\\values-is.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1255,
+                        "endColumn": 116,
+                        "endOffset": 1367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1560,
+                    "endColumn": 86,
+                    "endOffset": 1642
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-is\\values-is.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1372,
+                        "endColumn": 86,
+                        "endOffset": 1454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1647,
+                    "endColumn": 228,
+                    "endOffset": 1871
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-is\\values-is.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1459,
+                        "endColumn": 228,
+                        "endOffset": 1683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1876,
+                    "endColumn": 248,
+                    "endOffset": 2120
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-is\\values-is.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1688,
+                        "endColumn": 248,
+                        "endOffset": 1932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2125,
+                    "endColumn": 96,
+                    "endOffset": 2217
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-is\\values-is.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1937,
+                        "endColumn": 96,
+                        "endOffset": 2029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2222,
+                    "endColumn": 110,
+                    "endOffset": 2328
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-is\\values-is.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2034,
+                        "endColumn": 110,
+                        "endOffset": 2140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2333,
+                    "endColumn": 107,
+                    "endOffset": 2436
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-is\\values-is.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2145,
+                        "endColumn": 107,
+                        "endOffset": 2248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2441,
+                    "endColumn": 124,
+                    "endOffset": 2561
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-is\\values-is.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2253,
+                        "endColumn": 124,
+                        "endOffset": 2373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2566,
+                    "endColumn": 154,
+                    "endOffset": 2716
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-is\\values-is.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2378,
+                        "endColumn": 154,
+                        "endOffset": 2528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2721,
+                    "endColumn": 104,
+                    "endOffset": 2821
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-is\\values-is.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2533,
+                        "endColumn": 104,
+                        "endOffset": 2633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2826,
+                    "endColumn": 79,
+                    "endOffset": 2901
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-is\\values-is.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2638,
+                        "endColumn": 79,
+                        "endOffset": 2713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2906,
+                    "endColumn": 85,
+                    "endOffset": 2987
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-is\\values-is.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2718,
+                        "endColumn": 85,
+                        "endOffset": 2799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2992,
+                    "endColumn": 106,
+                    "endOffset": 3094
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-is\\values-is.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2804,
+                        "endColumn": 106,
+                        "endOffset": 2906
+                    }
+                }
+            }
+        ]
+    }
+]

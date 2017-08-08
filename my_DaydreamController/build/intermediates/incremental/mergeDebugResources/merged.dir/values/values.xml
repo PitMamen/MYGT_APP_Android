@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <color name="alignment_marker_color">#b4b4b4</color>
+    <color name="cardview_dark_background">#FF424242</color>
+    <color name="cardview_light_background">#FFFFFFFF</color>
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
+    <color name="white_transparent">#4cFFFFFF</color>
+    <declare-styleable name="CardView"><attr format="color" name="cardBackgroundColor"/><attr format="dimension" name="cardCornerRadius"/><attr format="dimension" name="cardElevation"/><attr format="dimension" name="cardMaxElevation"/><attr format="boolean" name="cardUseCompatPadding"/><attr format="boolean" name="cardPreventCornerOverlap"/><attr format="dimension" name="contentPadding"/><attr format="dimension" name="contentPaddingLeft"/><attr format="dimension" name="contentPaddingRight"/><attr format="dimension" name="contentPaddingTop"/><attr format="dimension" name="contentPaddingBottom"/><attr name="android:minWidth"/><attr name="android:minHeight"/></declare-styleable>
+    <declare-styleable name="PagerIndicator"><attr format="enum" name="visibility"><enum name="visible" value="0"/><enum name="invisible" value="1"/></attr><attr format="enum" name="shape"><enum name="oval" value="0"/><enum name="rect" value="1"/></attr><attr format="color" name="selected_color"/><attr format="color" name="unselected_color"/><attr format="reference" name="selected_drawable"/><attr format="reference" name="unselected_drawable"/><attr format="dimension" name="selected_width"/><attr format="dimension" name="selected_height"/><attr format="dimension" name="unselected_width"/><attr format="dimension" name="unselected_height"/><attr format="dimension" name="padding_left"/><attr format="dimension" name="padding_right"/><attr format="dimension" name="padding_top"/><attr format="dimension" name="padding_bottom"/><attr format="dimension" name="selected_padding_left"/><attr format="dimension" name="selected_padding_right"/><attr format="dimension" name="selected_padding_top"/><attr format="dimension" name="selected_padding_bottom"/><attr format="dimension" name="unselected_padding_left"/><attr format="dimension" name="unselected_padding_right"/><attr format="dimension" name="unselected_padding_top"/><attr format="dimension" name="unselected_padding_bottom"/></declare-styleable>
+    <declare-styleable name="RecyclerView"><attr format="string" name="layoutManager"/><attr name="android:orientation"/><attr name="android:descendantFocusability"/><attr format="integer" name="spanCount"/><attr format="boolean" name="reverseLayout"/><attr format="boolean" name="stackFromEnd"/></declare-styleable>
+    <declare-styleable name="SliderLayout"><attr format="enum" name="indicator_visibility"><enum name="visible" value="0"/><enum name="invisible" value="1"/></attr><attr format="boolean" name="auto_cycle"/><attr format="enum" name="pager_animation"><enum name="Default" value="0"/><enum name="Accordion" value="1"/><enum name="Background2Foreground" value="2"/><enum name="CubeIn" value="3"/><enum name="DepthPage" value="4"/><enum name="Fade" value="5"/><enum name="FlipHorizontal" value="6"/><enum name="FlipPage" value="7"/><enum name="Foreground2Background" value="8"/><enum name="RotateDown" value="9"/><enum name="RotateUp" value="10"/><enum name="Stack" value="11"/><enum name="Tablet" value="12"/><enum name="ZoomIn" value="13"/><enum name="ZoomOutSlide" value="14"/><enum name="ZoomOut" value="15"/></attr><attr format="integer" name="pager_animation_span"/></declare-styleable>
+    <declare-styleable name="Themes"><attr format="reference" name="SliderStyle"/><attr format="reference" name="PagerIndicatorStyle"/></declare-styleable>
+    <dimen name="alignment_marker_height">24mm</dimen>
+    <dimen name="alignment_marker_thickness">2dip</dimen>
+    <dimen name="cardview_compat_inset_shadow">1dp</dimen>
+    <dimen name="cardview_default_elevation">2dp</dimen>
+    <dimen name="cardview_default_radius">2dp</dimen>
+    <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
+    <dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen>
+    <dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen>
+    <dimen name="transition_bottom_bar_height">112dip</dimen>
+    <item name="item_touch_helper_previous_elevation" type="id"/>
+    <integer name="google_play_services_version">10084000</integer>
+    <string name="app_name">MYGT_VR</string>
+    <string description=" Accessibility description for the back button displayed in the top corner of the VR application to go back to the previous screen. [CHAR LIMIT=50]" name="back_button_content_description">
+    back
+  </string>
+    <string description=" Short text shown in a button in the dialog box that shows up to help users configure their Cardboard experience. By clicking on this button, the user will cancel the setup flow and return to their previous activity. [CHAR LIMIT=20]" name="cancel_button">
+      Cancel
+    </string>
+    <string name="common_google_play_services_unknown_issue"><ns1:g id="app_name">%1$s</ns1:g> is having trouble with Google Play services. Please try again.</string>
+    <string description=" Button text when the user is prompted with an action but can refuse that action. This communicates that the user has understood the dialog but wishes to take no further action, similar to CANCEL. [CHAR LIMIT=30]" name="dialog_button_got_it">
+    GOT IT
+  </string>
+    <string description=" Button text when the user is prompted to open the Daydream Help Center. [CHAR LIMIT=40]" name="dialog_button_open_help_center">
+    OPEN HELP CENTER
+  </string>
+    <string description=" Text shown in a dialog telling the user that their phone is not a Daydream-compatible phone, also directing them to the Daydream Help Center website. [CHAR LIMIT=200]" name="dialog_message_incompatible_phone">
+    A Daydream-ready phone is required. Visit the Daydream Help Center for more information.
+  </string>
+    <string description=" Text shown inside the dialog box that shows up to help users configure their Cardboard experience. This string is displayed when the user doesn&apos;t have the cardboard app installed. [CHAR LIMIT=200]" name="dialog_message_no_cardboard">
+      Get the Cardboard app in order to configure your viewer.
+    </string>
+    <string description="  Text shown inside the dialog box that shows up to help users configure their Cardboard experience. [CHAR LIMIT=200]" name="dialog_message_setup">
+      Set up your viewer for the best experience.
+    </string>
+    <string description=" Short text for the title of the dialog box that shows up to help users configure their Cardboard experience. [CHAR LIMIT=30]" name="dialog_title">
+      Configure
+    </string>
+    <string description=" Short title text for the dialog telling the user that their phone is incompatible. [CHAR LIMIT=30]" name="dialog_title_incompatible_phone">
+    Incompatible phone
+  </string>
+    <string description=" Short title text for the dialog telling the user that additional setup is required (for VrCore). [CHAR LIMIT = 30]" name="dialog_title_vr_core_not_enabled">
+    Setup required
+  </string>
+    <string description=" Short title text for the dialog telling the user that installation is required (for VrCore). [CHAR LIMIT = 30]" name="dialog_title_vr_core_not_installed">
+    Install required
+  </string>
+    <string description="Title of warning dialogs shown to user. [CHAR LIMIT=25]" name="dialog_title_warning">
+    Warning
+  </string>
+    <string description="Dialog to show before redirecting user to VrListenerService Settings. [CHAR LIMIT=250]" name="dialog_vr_core_not_enabled">
+    This application may not work properly without enabling Google VR Services, please enable this
+    in phone Settings before continuing.
+  </string>
+    <string description="Dialog to show before redirecting user to download VrCore. [CHAR LIMIT=250]" name="dialog_vr_core_not_installed">
+    This application may not work properly without Google VR Services.  Please install
+    Google VR Services from the Play Store before continuing.
+  </string>
+    <string description=" Short text shown in a button in the dialog box that shows up to help users configure their Cardboard experience. By clicking on this button, the user goes to the Cardboard app page on Playstore. [CHAR LIMIT=30]" name="go_to_playstore_button">
+      Go to the Play Store
+    </string>
+    <string description="Short text shown in a button in the dialog box that allows users to open Settings         for Google VR Services. [CHAR LIMIT=30]" name="go_to_vr_listeners_settings_button">
+    Go to Settings
+  </string>
+    <string description="Google VR component name used for enabling VR mode" name="gvr_vr_mode_component" translatable="false">com.google.vr.vrcore/com.google.vr.vrcore.common.VrCoreListenerService</string>
+    <string description=" Error message displayed as a Toast when Android could not find a browser to open a website. [CHAR LIMIT=50]" name="no_browser_text">
+      No browser to open website
+    </string>
+    <string description=" Message asking the user to place their phone into Cardboard. This is a generic message used in the absence of knowing the current viewer. [CHAR LIMIT=50]" name="place_your_phone_into_cardboard">
+      Place your phone into your Cardboard viewer
+    </string>
+    <string description=" Message format asking the user to place their phone into the Cardboard compatible viewer that is currently configured. [CHAR LIMIT=50]" name="place_your_viewer_into_viewer_format">
+      Place your phone into your <ns1:g example="Cardboard I/O 2015" id="viewer_name">%s</ns1:g> viewer
+    </string>
+    <string name="return_to_vr">Return to VR</string>
+    <string description=" Accessibility description for the settings button displayed at the bottom of a VR application. [CHAR LIMIT=50]" name="settings_button_content_description">
+    settings
+  </string>
+    <string description=" Short text shown in a button in the dialog box that shows up to help users configure their Cardboard experience. By clicking on this button, the user is taken to the Cardboard app to setup their Cardboard viewer. [CHAR LIMIT=30]" name="setup_button">
+      Setup
+    </string>
+    <string description=" Text which when pressed, takes the user to the view that allows them to switch their Cardboard compatible viewer. [CHAR LIMIT=10]" name="switch_viewer_action">
+      Switch
+    </string>
+    <string description=" Prompt asking if the user wants to switch their Cardboard compatible viewer. [CHAR LIMIT=30]" name="switch_viewer_prompt">
+      Using a different viewer?
+    </string>
+    <style name="AndroidImageSlider_Attractive_Rect_Blue">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="shape">rect</item>
+        <item name="padding_left">3dp</item>
+        <item name="padding_right">3dp</item>
+        <item name="padding_top">4dp</item>
+        <item name="padding_bottom">4dp</item>
+
+        <item name="selected_color">#30CCE5</item>
+        <item name="unselected_color">#333333</item>
+        <item name="selected_width">13dp</item>
+        <item name="selected_height">4dp</item>
+        <item name="unselected_width">13dp</item>
+        <item name="unselected_height">4dp</item>
+    </style>
+    <style name="AndroidImageSlider_Corner_Oval_Orange">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/indicator_corner_bg</item>
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="shape">oval</item>
+        <item name="padding_left">3dp</item>
+        <item name="padding_right">3dp</item>
+        <item name="padding_top">4dp</item>
+        <item name="padding_bottom">4dp</item>
+
+        <item name="selected_color">#f60</item>
+        <item name="unselected_color">#ffffff</item>
+        <item name="selected_width">6dp</item>
+        <item name="selected_height">6dp</item>
+        <item name="unselected_width">6dp</item>
+        <item name="unselected_height">6dp</item>
+    </style>
+    <style name="AndroidImageSlider_Magnifier_Oval_Black">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="shape">oval</item>
+        <item name="padding_left">3dp</item>
+        <item name="padding_right">3dp</item>
+        <item name="padding_top">4dp</item>
+        <item name="padding_bottom">4dp</item>
+
+        <item name="selected_color">#333333</item>
+        <item name="unselected_color">#33000000</item>
+        <item name="selected_width">8dp</item>
+        <item name="selected_height">8dp</item>
+        <item name="unselected_width">6dp</item>
+        <item name="unselected_height">6dp</item>
+    </style>
+    <style name="Base.CardView" parent="android:Widget">
+        <item name="cardCornerRadius">@dimen/cardview_default_radius</item>
+        <item name="cardElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardMaxElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardUseCompatPadding">false</item>
+        <item name="cardPreventCornerOverlap">true</item>
+    </style>
+    <style name="CardView" parent="Base.CardView">
+    </style>
+    <style name="CardView.Dark">
+        <item name="cardBackgroundColor">@color/cardview_dark_background</item>
+    </style>
+    <style name="CardView.Light">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+    </style>
+    <style name="GvrDialogTheme" parent="@android:style/Theme.Holo.Light.Dialog">
+<item name="android:windowBackground">@android:color/transparent</item>
+</style>
+    <style name="NoSystemUI" parent="VrActivityTheme">
+</style>
+    <style name="Theme.VrTheme" parent="@android:style/Theme.Black.NoTitleBar">
+    <item name="android:windowDisablePreview">true</item>
+    <item name="android:windowAnimationStyle">@null</item>
+  </style>
+    <style name="UiButton">
+<item name="android:layout_width">wrap_content</item>
+<item name="android:background">@drawable/rippleable</item>
+<item name="android:layout_height">wrap_content</item>
+<item name="android:padding">9dip</item>
+</style>
+    <style name="VrActivityTheme" parent="@android:style/Theme.Black.NoTitleBar">
+<item name="android:windowFullscreen">true</item>
+<item name="android:windowAnimationStyle">@null</item>
+<item name="android:windowActionBar">false</item>
+<item name="android:windowDisablePreview">true</item>
+<item name="android:windowContentOverlay">@null</item>
+</style>
+</resources>

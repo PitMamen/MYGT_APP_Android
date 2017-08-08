@@ -1,0 +1,463 @@
+[
+    {
+        "outputFile": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rTW\\values-zh-rTW.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 91,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 91,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 197,
+                    "endColumn": 74,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 74,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 161,
+                    "endOffset": 429
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\10.0.0\\res\\values-zh-rTW\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 289,
+                        "endColumn": 161,
+                        "endOffset": 450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 434,
+                    "endColumn": 83,
+                    "endOffset": 513
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 83,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 518,
+                    "endColumn": 95,
+                    "endOffset": 609
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 95,
+                        "endOffset": 447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 614,
+                    "endColumn": 136,
+                    "endOffset": 746
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 452,
+                        "endColumn": 136,
+                        "endOffset": 584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 751,
+                    "endColumn": 114,
+                    "endOffset": 861
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 589,
+                        "endColumn": 114,
+                        "endOffset": 699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 866,
+                    "endColumn": 97,
+                    "endOffset": 959
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 704,
+                        "endColumn": 97,
+                        "endOffset": 797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 964,
+                    "endColumn": 73,
+                    "endOffset": 1033
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 802,
+                        "endColumn": 73,
+                        "endOffset": 871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1038,
+                    "endColumn": 95,
+                    "endOffset": 1129
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 876,
+                        "endColumn": 95,
+                        "endOffset": 967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1134,
+                    "endColumn": 97,
+                    "endOffset": 1227
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 972,
+                        "endColumn": 97,
+                        "endOffset": 1065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1232,
+                    "endColumn": 97,
+                    "endOffset": 1325
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1070,
+                        "endColumn": 97,
+                        "endOffset": 1163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1330,
+                    "endColumn": 80,
+                    "endOffset": 1406
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1168,
+                        "endColumn": 80,
+                        "endOffset": 1244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1411,
+                    "endColumn": 140,
+                    "endOffset": 1547
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1249,
+                        "endColumn": 140,
+                        "endOffset": 1385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1552,
+                    "endColumn": 149,
+                    "endOffset": 1697
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1390,
+                        "endColumn": 149,
+                        "endOffset": 1535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1702,
+                    "endColumn": 91,
+                    "endOffset": 1789
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1540,
+                        "endColumn": 91,
+                        "endOffset": 1627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1794,
+                    "endColumn": 99,
+                    "endOffset": 1889
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1632,
+                        "endColumn": 99,
+                        "endOffset": 1727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1894,
+                    "endColumn": 85,
+                    "endOffset": 1975
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1732,
+                        "endColumn": 85,
+                        "endOffset": 1813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1980,
+                    "endColumn": 112,
+                    "endOffset": 2088
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1818,
+                        "endColumn": 112,
+                        "endOffset": 1926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2093,
+                    "endColumn": 142,
+                    "endOffset": 2231
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1931,
+                        "endColumn": 142,
+                        "endOffset": 2069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2236,
+                    "endColumn": 96,
+                    "endOffset": 2328
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2074,
+                        "endColumn": 96,
+                        "endOffset": 2166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2333,
+                    "endColumn": 71,
+                    "endOffset": 2400
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2171,
+                        "endColumn": 71,
+                        "endOffset": 2238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2405,
+                    "endColumn": 81,
+                    "endOffset": 2482
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2243,
+                        "endColumn": 81,
+                        "endOffset": 2320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2487,
+                    "endColumn": 89,
+                    "endOffset": 2572
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android1\\my_DaydreamController\\my_DaydreamController\\build\\intermediates\\exploded-aar\\my_DaydreamController\\gvr\\unspecified\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2325,
+                        "endColumn": 89,
+                        "endOffset": 2410
+                    }
+                }
+            }
+        ]
+    }
+]

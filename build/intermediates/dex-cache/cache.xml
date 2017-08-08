@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_69015e6d3618f532f9777aba3c48db66fcc08ceb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_8a794981d452e41b29dc5716ead629d391108a3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\gradle\gradle-2.4\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.0\49eb3ad545e7701234e4dd83db8dc1344b577f23\converter-gson-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.0_bd046bc7db446f7ea8c9f8690206f6fdce46be81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7d018b6c3a2487bcbd0e3c9a4ef341b7c3f4228">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b772a6a8ba997b408826c9eb2b18daf418aec349\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_0248315e689da969a1beed12decf13480dfe32a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\gradle\gradle-2.4\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.2.0_496b521f993c39f606edb719739e1ad3f3342e67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\gradle\gradle-2.4\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.1_ce9164cd71668952b46cb9e9311ebd9f91a5a272\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.0_3560e5b08b80442fb553809c7276afdd3b2b920e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b410ae1fda134f470276365f4b7f846269e0d23">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.0_5bc6804ed87e0bc19f13b8f439bca36bbb7ed932\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\exploded-aar\my_DaydreamController\gvr\unspecified\jars\libs\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ace89c5e211f5ec90963a36713cb1231da3a7c68">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\8\gvr-unspecified-jars_a08d89c0ad07da137dba9989a54f0a8185a2dd56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\gradle\gradle-2.4\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.5.0_da32f8a9a1d3e3058e399345087dea1dbfbf9063\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\libs\gvr_audio.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f23fafd64a2733554059bce0d81cca8239031f16">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\2\gvr_audio_045f211c192b6567d91788ece5eadb582c62f67e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex-rxandroid-1.2.1_abe326e1cadcaa811b0c03b899c1a4937bf75820\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\gradle\gradle-2.4\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.0.0\bf61256d9868ea053e24d77669c55c80db375c15\adapter-rxjava-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf61256d9868ea053e24d77669c55c80db375c15">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.0.0_82f7eea1307ece1e7fd7d314749536b2dbca5658\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75dbc3537bc912d077b3db2f5ac72d5b43644b2c">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.0_2ff01bf0a63db634b17eac89d4e6b650ed98c302\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce6e6e59212db0893fc36e5b579cf319a84aade8">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.0_407d5751400ae05313dfba3645fad3d7c948339a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\libs\EasyMovieTexture.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19dd5661e7b1fb67b69eb4460fa05a77e2fd5720">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\2\EasyMovieTexture_81c13092244ba8e7579c6aba1672dedf68c9688f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\gradle\gradle-2.4\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.11.0_c5831151fd8c610202d2797d4a0344483bdcc272\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_771a066f855ecc51320ba1bd42b0b383b809178c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\gradle\gradle-2.4\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.5.2\ecf534dba3a8446ce84cbb797d314763be212a68\glide-3.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.5.2_44223b54229ef0cc7236ef0a268b951032d3624d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="985be85104f6d0c5c5e51e7b7e60d8883a98ac64">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.0_37bf78587e86a0159ce2f32670c0136cb7384a09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_7985ae7fc5907a0d7368d8955d1e1cafbe9fcabd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_e46d00823acd06d1d5551876919840f2cdc3a351\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\libs\libprotobuf-java-nano.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd53f117550c58490f29c2e27afca051626260d">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\2\libprotobuf-java-nano_8e3de878fb012ad3c908ab5503f592c9a1961875\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\libs\unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f811c2b0f415e6a8f7aa48ffb8ef8fbe18aaede8">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\2\unity-classes_0c6821c88fe72cac27dde16c53dd26e014452ef6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61005619e43f203768ff3f224137def6f029e50">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.0_697622eea7d73f8ecd5a30c8906f7520611bb951\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\exploded-aar\com.daimajia.slider\library\1.1.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.slider-library-1.1.5_209066f3dac32d914b9955dfa9a9e2c7b007c151\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\gradle\gradle-2.4\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_0c9a040a40787a25ca00628d98d3c90fb6684de9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7ed3fd9d5a9687980dac6c504abd91ad3dfa238">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.0_a1766438d67a42668fe30d1786bdd6af868dd6f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb29cca110501f795fd0ca6a8096eecb4183e2e1">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1fe14c8bf8552cae56fb67d13f7a3d0a7ddd57d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_ba19ca9bb0406a7828900da08fb8c1440527f5c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\gradle\gradle-2.4\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.6.0_761f5e214057fc0d0999d0025e05ac19fdd504ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\exploded-aar\my_DaydreamController\gvrpermissionsupportrelease\unspecified\jars\libs\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15265a118cba1eb439baa307cc684d9ed018706d">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\8\gvrpermissionsupportrelease-unspecified-jars_894d95bca17fa31df9ed4f752edd48d7e0ba54c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\gradle\gradle-2.4\caches\modules-2\files-2.1\io.reactivex\rxjava\1.2.10\97c63ea14aa0626f626191b05012bdf529e57045\rxjava-1.2.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="97c63ea14aa0626f626191b05012bdf529e57045">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.2.10_aed6e5997789d861b3c0870e7b4710a9b72f1daf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_21c6df9d126eb64a59df0ab42509984e0897687c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\gradle\gradle-2.4\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_7b3094d8846dde4424109689cac4152ee58d4304\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\libs\zip_file.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c614fd77dd17ce90fab8e112128b21bf08092cb6">
+        <dex dex="D:\unity3d_5.6_workspace\Android1\my_DaydreamController\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\2\zip_file_23a88cc70daabbc36db89d8c4c8623279f41193b\classes.dex" />
+    </item>
+
+</items>
